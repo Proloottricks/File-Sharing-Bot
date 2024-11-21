@@ -60,7 +60,6 @@ AUTO_DELETE_MSG = os.environ.get("AUTO_DELETE_MSG", "❗️ IMPORTANT ❗️
 This Media Will Be Deleted In 20 minutes (Due To Copyright Issues).
 
 📌 Please Forward This Media To Somewhere Else And Start Downloading There.")
-AUTO_DEL_SUCCESS_MSG = os.environ.get("AUTO_DEL_SUCCESS_MSG", "Your file has been successfully deleted. Thank you for using our service. ✅")
 
 #Set true if you want Disable your Channel Posts Share button
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
