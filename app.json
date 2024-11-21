@@ -77,7 +77,7 @@ This Media Will Be Deleted In 20 minutes (Due To Copyright Issues).
     },
     "AUTO_DEL_SUCCESS_MSG": {
       "description": "The custom message shown to the user once the file is successfully deleted.",
-      "value": "Your file has been successfully deleted. Thank you for using our service. ✅"
+      "value": "0"
     }
   },
   "buildpacks": [
