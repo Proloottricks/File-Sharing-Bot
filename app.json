@@ -15,11 +15,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "6376864232"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "26930219"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
@@ -31,19 +31,19 @@
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "f61fa0adcd48b6bec464b6866fbd2822"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-100"
+      "value": "-1002217662848"
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "1785013016"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
+      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link(Video Link)."
     },
     "START_PIC": {
       "description": "Optional: URL or file path of the image to be sent as the start message,",
@@ -51,7 +51,7 @@
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>"
+      "value": "Hello {first}\n\n<b>You need to join in my Channel to use me\n\nKindly Please join Channel</b>"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
@@ -60,12 +60,12 @@
     },
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
-      "value": "False",
+      "value": "True",
       "required": false
     },
     "AUTO_DELETE_TIME": {
       "description": "Set the time in seconds for the automatic deletion of the file. Default is 0, meaning auto-deletion is disabled unless specified.",
-      "value": "0"
+      "value": "1200"
     },
     "AUTO_DELETE_MSG": {
       "description": "The custom message shown to the user before the file is automatically deleted. You can include a countdown with {time}.",
