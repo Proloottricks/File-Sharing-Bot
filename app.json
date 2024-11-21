@@ -69,7 +69,11 @@
     },
     "AUTO_DELETE_MSG": {
       "description": "The custom message shown to the user before the file is automatically deleted. You can include a countdown with {time}.",
-      "value": "This file will be automatically deleted in 20 minutes."
+      "value": "❗️ IMPORTANT ❗️
+
+This Media Will Be Deleted In 20 minutes (Due To Copyright Issues).
+
+📌 Please Forward This Media To Somewhere Else And Start Downloading There."
     },
     "AUTO_DEL_SUCCESS_MSG": {
       "description": "The custom message shown to the user once the file is successfully deleted.",
